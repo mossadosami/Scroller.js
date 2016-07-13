@@ -3,17 +3,13 @@
   <div class="container">
     <div class="row "  >
       <div class="col-lg-8 col-lg-push-2 text-center">
-        <h1  moel-ani-data="fadeInUp after-0-5s for-0-5s" >Scroller.js v1</h1>
+    
         <h2  moel-ani-data="fadeInUp after-0-5s for-0-5s" >by Mosaad Osami</h2>
         <p class="lead"  moel-ani-data="fadeInUp after-0-5s for-0-5s" ><strong>The only 2K file and the easiest Way ever to animate your page on scroll!</strong><br>
           <br>
           NO hassel NO wierd stuff, <br>
           just add ONE attribute to animate your page on Scroll.</p>
-        <form class="form-inline" role="form">
-          <br>
-          <p  moel-ani-data="fadeInUp after-0-5s for-0-5s" >Download from git</p>
-          <button type="submit" class="btn btn-lg btn-default"  moel-ani-data="fadeInUp after-0-5s for-0-5s" >DOWNLAOD</button>
-        </form>
+   
       </div>
     </div>
   </div>
