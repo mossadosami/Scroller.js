@@ -33,7 +33,7 @@
             <li   moel-ani-data="fadeInDown after-1s for-1s">Add these links to your page <head><br/>
               <code><link rel="stylesheet" href="http://s.mlcdn.co/animate.css"><br/>
               <script src="https://code.jquery.com/jquery-2.2.4.js"></script><br/>
-              <script src="js/Scroller.js"></script> </code></li>
+              <script src="https://cdnjs.cloudflare.com/Scroller.js"></script> </code></li>
             <li   moel-ani-data="fadeInDown after-1s for-1s"> Add attribute  moel-ani-data= and its values as below. <br/>
               <code> <h1 moel-ani-data="fadeInUp after-1s for-1s" ></h1> </code> </li>
           </ol>
