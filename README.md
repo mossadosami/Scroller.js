@@ -14,12 +14,12 @@ depending on Animate.css and jquey.
 ##Why it's that simple
 because you need only two steps:
 
-Add these links to your page <head>
+Add these links to your page 
 <link rel="stylesheet" href="http://s.mlcdn.co/animate.css">
 <script src="https://code.jquery.com/jquery-2.2.4.js"></script>
 <script src="https://cdnjs.cloudflare.com/Scroller.js"></script>
 Add attribute moel-ani-data= and its values as below. 
-<h1 moel-ani-data="fadeInUp after-1s for-1s" ></h1>
+<h1 moel-ani-data="fadeInUp after-1s for-1s" ></h1> 
 ##How to Customize?
 Only in three steps:
 
