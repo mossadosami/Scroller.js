@@ -20,7 +20,7 @@
 </header>
 <main class="content"> 
   
-  <!-- Lead -->
+ 
   <section class="container space-before space-after "  >
     <div class="row">
       <div class="col-sm-10 col-sm-push-1">
@@ -66,13 +66,10 @@
         </div>
       </div>
     </div>
-  </section>
-  <!-- /Lead --> 
-  
-  <!-- Features -->
+ 
   <section class="container space-before">
     <div class="row featurelist space-after">
-      <div class="col-md-5 col-sm-6 col-md-push-1 "   moel-ani-data="fadeInLeft after-0-5s  for-0-5s"> <img class="img-feature img-responsive" src="assets/images/screen1.png" alt="Sample image"> </div>
+       
       <div class="col-md-5 col-md-push-1 col-sm-6  "   moel-ani-data="fadeInRight after-0-5s  for-0-5s" >
         <h2 class="space-before">Upcoming features Super Awesome version 1.5! yay</h2>
         <ul>
@@ -82,6 +79,6 @@
       </div>
     </div>
   </section>
-  <!-- /Features --> 
+ 
   
 </main>
