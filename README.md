@@ -11,8 +11,7 @@
           NO hassel NO wierd stuff, <br>
           just add ONE attribute to animate your page on Scroll.</p>
  
-      </div>
-    </div>
+ 
   </div>
 </header>
  
@@ -61,23 +60,11 @@
               ...<br/>
               for-5-5s </li>
           </ol>
-        </div>
-      </div>
-    </div>
+    
   </section>
  
-  <section class="container space-before">
-    <div class="row featurelist space-after">
  
-      <div class="col-md-5 col-md-push-1 col-sm-6  "   moel-ani-data="fadeInRight after-0-5s  for-0-5s" >
-        <h2 class="space-before">Upcoming features Super Awesome version 1.5! yay</h2>
-        <ul>
-          <li>Now it's only entrance version (On page load, elements is hidden then appears and animates by scroll). The next existence version the element is not hidden by default, the scroll triggers the animation itself on existed element.</li>
-          <li>Using multiple animations and time options on the same element.</li>
-        </ul>
-      </div>
-    </div>
-  </section>
+ 
  
   
 </main>
@@ -88,16 +75,4 @@
         <h2>Got your interest?</h2>
         <p>Please tell your friends about Us!</p>
    
-        <div class="addthis_toolbox addthis_default_style addthis_32x32_style"> <a class="addthis_button_facebook"></a> <a class="addthis_button_twitter"></a> <a class="addthis_button_linkedin"></a> <a class="addthis_button_google_plusone_share"></a> <a class="addthis_button_compact"></a><a class="addthis_counter addthis_bubble_style"></a> </div>
-        <script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script> 
-        <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-536ba34f3dab1f93"></script> 
-    
-        
-      </div>
-      <div class="col-md-5 col-md-push-1"   moel-ani-data="fadeInRight after-1s for-1s">
-        <h2>Need help?</h2>
-        <p>For help with or another issues, please email me at <a href="mossad.osami@gmail.com" >mail</a> </p>
-        <p>If you'd like to report a bug or suggest an improvement, please post and issue on <a href="https://github.com/pozh/">GitHub</a> </p>
-      </div>
-    </div>
-  </section>
+       
