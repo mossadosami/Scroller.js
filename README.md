@@ -1,77 +1,47 @@
+#Scroller.js v1
+by Mosaad Osami
 
-<!-- Header -->
-<header class="header">
-  <div class="container">
-    <div class="row "  >
-      <div class="col-lg-8 col-lg-push-2 text-center">
-        <h1  moel-ani-data="fadeInUp after-0-5s for-0-5s" >Scroller.js v1</h1>
-        <h2  moel-ani-data="fadeInUp after-0-5s for-0-5s" >by Mosaad Osami</h2>
-        <p class="lead"  moel-ani-data="fadeInUp after-0-5s for-0-5s" ><strong>The only 2K file and the easiest Way ever to animate your page on scroll!</strong><br>
-          <br>
-          NO hassel NO wierd stuff, <br>
-          just add ONE attribute to animate your page on Scroll.</p>
- 
- 
-  </div>
-</header>
- 
-<main class="content"> 
-  
- 
-  <section class="container space-before space-after "  >
-    <div class="row">
-      <div class="col-sm-10 col-sm-push-1">
-        <div moel-ani-data="fadeInDown after-0-5s for-0-5s">
-          <h1 class="text-center">What it's all about</h1>
-          <p class="lead text-center"> This just do the job, add animation to the HTML elements on Scroll <br/>
-            depending on Animate.css and jquey. </p>
-        </div>
-        <div>
-          <h1 class="text-center big-margin"   moel-ani-data="fadeInDown after-1s for-1s">Why it's that simple</h1>
-          <p class="lead text-center"   moel-ani-data="fadeInDown after-1s for-1s"> because you need only two steps: </p>
-          <ol>
-            <li   moel-ani-data="fadeInDown after-1s for-1s"><link rel="stylesheet" href="http://s.mlcdn.co/animate.css"><br/>
-<script src="https://code.jquery.com/jquery-2.2.4.js"></script><br/>
-<script src="js/Scroller.js"></script></li>
-            <li   moel-ani-data="fadeInDown after-1s for-1s"> Add attribute  moel-ani-data= and its values as below. <br/>
-              <code> <h1 moel-ani-data="fadeInUp after-1s for-1s"></h1> </code> </li>
-          </ol>
-        </div>
-        <div   moel-ani-data="fadeInRight after-1s for-1s">
-          <h1 class="text-center big-margin">How to Customize?</h1>
-          <p class="lead text-center"> Only in three steps: </p>
-          <ol>
-            <li    moel-ani-data="fadeInDown after-1s for-1s"> <b>Animation type</b><br/>
-              you can use all class on <a href="https://github.com/daneden/animate.css">Animate.css</a><br/>
-              <code><h1 ... moel-ani-data="<b>fadeInUp</b> ..." ></h1></code> </li>
-            <li   moel-ani-data="fadeInDown after-1s for-1s"> <b>Animation delay </b>(start animation after 1 sec or 2 sec ...)<br/>
-              <code><h1 ... moel-ani-data="...<b>after-1s</b> ..." ></h1></code> Check the other options:<br/>
-              after-0-5s<br/>
-              after-1s<br/>
-              after-1-5s<br/>
-              ...<br/>
-              after-5-5s </li>
-            <li   moel-ani-data="fadeInDown after-1s for-1s"> <b>Animation duration</b><br/>
-              <code><h1 ... moel-ani-data="...<b>for-1s</b>" ></h1></code> Check the other options:<br/>
-              for-0-5s<br/>
-              for-1s<br/>
-              for-1-5s<br/>
-              ...<br/>
-              for-5-5s </li>
-          </ol>
-    
-  </section>
- 
- 
- 
- 
-  
-</main>
-<footer id="footer" class="jumbotron" >
-  <section class="container">
-    <div class="row">
-      <div class="col-md-5 col-md-push-1"   moel-ani-data="fadeInLeft after-1s for-1s">
-        <h2>Got your interest?</h2>
-        <p>Please tell your friends about Us!</p>
-   
-       
+The only 2K file and the easiest Way ever to animate your page on scroll!
+
+NO hassel NO wierd stuff, 
+just add ONE attribute to animate your page on Scroll.
+
+
+##What it's all about
+This just do the job, add animation to the HTML elements on Scroll 
+depending on Animate.css and jquey.
+
+##Why it's that simple
+because you need only two steps:
+
+Add these links to your page <head>
+<link rel="stylesheet" href="http://s.mlcdn.co/animate.css">
+<script src="https://code.jquery.com/jquery-2.2.4.js"></script>
+<script src="https://cdnjs.cloudflare.com/Scroller.js"></script>
+Add attribute moel-ani-data= and its values as below. 
+<h1 moel-ani-data="fadeInUp after-1s for-1s" ></h1>
+##How to Customize?
+Only in three steps:
+
+Animation type
+you can use all class on Animate.css
+<h1 ... moel-ani-data="fadeInUp ..." ></h1>
+Animation delay (start animation after 1 sec or 2 sec ...)
+<h1 ... moel-ani-data="...after-1s ..." ></h1>
+Check the other options:
+after-0-5s
+after-1s
+after-1-5s
+...
+after-5-5s
+Animation duration
+<h1 ... moel-ani-data="...for-1s" ></h1>
+Check the other options:
+for-0-5s
+for-1s
+for-1-5s
+...
+for-5-5s
+##Upcoming features Super Awesome version 1.5! yay
+Now it's only entrance version (On page load, elements is hidden then appears and animates by scroll). The next existence version the element is not hidden by default, the scroll triggers the animation itself on existed element.
+Using multiple animations and time options on the same element.
