@@ -1,5 +1,5 @@
 
-
+<!-- Header -->
 <header class="header">
   <div class="container">
     <div class="row "  >
@@ -30,12 +30,12 @@
           <h1 class="text-center big-margin"   moel-ani-data="fadeInDown after-1s for-1s">Why it's that simple</h1>
           <p class="lead text-center"   moel-ani-data="fadeInDown after-1s for-1s"> because you need only two steps: </p>
           <ol>
-            <li   moel-ani-data="fadeInDown after-1s for-1s">Add these links to your page <head><br/>
-              <code><link rel="stylesheet" href="http://s.mlcdn.co/animate.css"><br/>
-              <script src="https://code.jquery.com/jquery-2.2.4.js"></script><br/>
-              <script src="https://cdnjs.cloudflare.com/Scroller.js"></script> </code></li>
+            <li   moel-ani-data="fadeInDown after-1s for-1s">Add these links to your page &lt;head&gt;<br/>
+              <code>&lt;link rel=&quot;stylesheet&quot; href=&quot;http://s.mlcdn.co/animate.css&quot;&gt;<br/>
+              &lt;script src=&quot;https://code.jquery.com/jquery-2.2.4.js&quot;&gt;&lt;/script&gt;<br/>
+              &lt;script src=&quot;https://cdnjs.cloudflare.com/Scroller.js&quot;&gt;&lt;/script&gt; </code></li>
             <li   moel-ani-data="fadeInDown after-1s for-1s"> Add attribute  moel-ani-data= and its values as below. <br/>
-              <code> <h1 moel-ani-data="fadeInUp after-1s for-1s" ></h1> </code> </li>
+              <code> &lt;h1 moel-ani-data=&quot;fadeInUp after-1s for-1s&quot; &gt;&lt;/h1&gt; </code> </li>
           </ol>
         </div>
         <div   moel-ani-data="fadeInRight after-1s for-1s">
@@ -44,16 +44,16 @@
           <ol>
             <li    moel-ani-data="fadeInDown after-1s for-1s"> <b>Animation type</b><br/>
               you can use all class on <a href="https://github.com/daneden/animate.css">Animate.css</a><br/>
-              <code><h1 ... moel-ani-data="<b>fadeInUp</b> ..." ></h1></code> </li>
+              <code>&lt;h1 ... moel-ani-data=&quot;<b>fadeInUp</b> ...&quot; &gt;&lt;/h1&gt;</code> </li>
             <li   moel-ani-data="fadeInDown after-1s for-1s"> <b>Animation delay </b>(start animation after 1 sec or 2 sec ...)<br/>
-              <code><h1 ... moel-ani-data="...<b>after-1s</b> ..." ></h1></code> Check the other options:<br/>
+              <code>&lt;h1 ... moel-ani-data=&quot;...<b>after-1s</b> ...&quot; &gt;&lt;/h1&gt;</code> Check the other options:<br/>
               after-0-5s<br/>
               after-1s<br/>
               after-1-5s<br/>
               ...<br/>
               after-5-5s </li>
             <li   moel-ani-data="fadeInDown after-1s for-1s"> <b>Animation duration</b><br/>
-              <code><h1 ... moel-ani-data="...<b>for-1s</b>" ></h1></code> Check the other options:<br/>
+              <code>&lt;h1 ... moel-ani-data=&quot;...<b>for-1s</b>&quot; &gt;&lt;/h1&gt;</code> Check the other options:<br/>
               for-0-5s<br/>
               for-1s<br/>
               for-1-5s<br/>
